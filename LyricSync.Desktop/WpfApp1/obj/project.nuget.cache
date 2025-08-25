@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GeLlOPHAEG8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\donni\\Desktop\\WPF\\LyricSync.Client\\WpfApp1\\WpfApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\donni\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.304\\microsoft.net.sdk.compilers.toolset.9.0.304.nupkg.sha512"
+  ],
+  "logs": []
+}

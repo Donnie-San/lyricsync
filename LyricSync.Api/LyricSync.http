@@ -1,0 +1,6 @@
+@LyricSync_HostAddress = http://localhost:5128
+
+GET {{LyricSync_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
