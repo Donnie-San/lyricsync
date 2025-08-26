@@ -1,82 +1,82 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\donni\\Desktop\\WPF\\LyricSync\\",
+  "WorkspaceRootPath": "C:\\Users\\donni\\Desktop\\WPF\\LyricSync real\\LyricSync.Api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{43C959DB-67DE-43F0-9559-A38317B3E1EC}|LyricSync.csproj|c:\\users\\donni\\desktop\\wpf\\lyricsync\\controllers\\songscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{43C959DB-67DE-43F0-9559-A38317B3E1EC}|LyricSync.csproj|solutionrelative:controllers\\songscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{43C959DB-67DE-43F0-9559-A38317B3E1EC}|LyricSync.csproj|c:\\users\\donni\\desktop\\wpf\\lyricsync\\controllers\\lyricscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{43C959DB-67DE-43F0-9559-A38317B3E1EC}|LyricSync.csproj|c:\\users\\donni\\desktop\\wpf\\lyricsync real\\lyricsync.api\\controllers\\lyricscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43C959DB-67DE-43F0-9559-A38317B3E1EC}|LyricSync.csproj|solutionrelative:controllers\\lyricscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43C959DB-67DE-43F0-9559-A38317B3E1EC}|LyricSync.csproj|c:\\users\\donni\\desktop\\wpf\\lyricsync\\dtos\\songdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{43C959DB-67DE-43F0-9559-A38317B3E1EC}|LyricSync.csproj|c:\\users\\donni\\desktop\\wpf\\lyricsync real\\lyricsync.api\\controllers\\songscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43C959DB-67DE-43F0-9559-A38317B3E1EC}|LyricSync.csproj|solutionrelative:controllers\\songscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43C959DB-67DE-43F0-9559-A38317B3E1EC}|LyricSync.csproj|c:\\users\\donni\\desktop\\wpf\\lyricsync real\\lyricsync.api\\dtos\\songdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43C959DB-67DE-43F0-9559-A38317B3E1EC}|LyricSync.csproj|solutionrelative:dtos\\songdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43C959DB-67DE-43F0-9559-A38317B3E1EC}|LyricSync.csproj|c:\\users\\donni\\desktop\\wpf\\lyricsync\\dtos\\lyricdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{43C959DB-67DE-43F0-9559-A38317B3E1EC}|LyricSync.csproj|c:\\users\\donni\\desktop\\wpf\\lyricsync real\\lyricsync.api\\dtos\\lyricdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43C959DB-67DE-43F0-9559-A38317B3E1EC}|LyricSync.csproj|solutionrelative:dtos\\lyricdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43C959DB-67DE-43F0-9559-A38317B3E1EC}|LyricSync.csproj|c:\\users\\donni\\desktop\\wpf\\lyricsync\\models\\lyric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{43C959DB-67DE-43F0-9559-A38317B3E1EC}|LyricSync.csproj|c:\\users\\donni\\desktop\\wpf\\lyricsync real\\lyricsync.api\\models\\lyric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43C959DB-67DE-43F0-9559-A38317B3E1EC}|LyricSync.csproj|solutionrelative:models\\lyric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43C959DB-67DE-43F0-9559-A38317B3E1EC}|LyricSync.csproj|c:\\users\\donni\\desktop\\wpf\\lyricsync\\models\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{43C959DB-67DE-43F0-9559-A38317B3E1EC}|LyricSync.csproj|c:\\users\\donni\\desktop\\wpf\\lyricsync real\\lyricsync.api\\models\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43C959DB-67DE-43F0-9559-A38317B3E1EC}|LyricSync.csproj|solutionrelative:models\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\donni\\Desktop\\WPF\\LyricSync\\Migrations\\20250825101012_ThirdMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250825101012_ThirdMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{43C959DB-67DE-43F0-9559-A38317B3E1EC}|LyricSync.csproj|c:\\users\\donni\\desktop\\wpf\\lyricsync\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{43C959DB-67DE-43F0-9559-A38317B3E1EC}|LyricSync.csproj|c:\\users\\donni\\desktop\\wpf\\lyricsync real\\lyricsync.api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43C959DB-67DE-43F0-9559-A38317B3E1EC}|LyricSync.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43C959DB-67DE-43F0-9559-A38317B3E1EC}|LyricSync.csproj|c:\\users\\donni\\desktop\\wpf\\lyricsync\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{43C959DB-67DE-43F0-9559-A38317B3E1EC}|LyricSync.csproj|c:\\users\\donni\\desktop\\wpf\\lyricsync real\\lyricsync.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43C959DB-67DE-43F0-9559-A38317B3E1EC}|LyricSync.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43C959DB-67DE-43F0-9559-A38317B3E1EC}|LyricSync.csproj|c:\\users\\donni\\desktop\\wpf\\lyricsync\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{43C959DB-67DE-43F0-9559-A38317B3E1EC}|LyricSync.csproj|c:\\users\\donni\\desktop\\wpf\\lyricsync real\\lyricsync.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43C959DB-67DE-43F0-9559-A38317B3E1EC}|LyricSync.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43C959DB-67DE-43F0-9559-A38317B3E1EC}|LyricSync.csproj|c:\\users\\donni\\desktop\\wpf\\lyricsync\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{43C959DB-67DE-43F0-9559-A38317B3E1EC}|LyricSync.csproj|c:\\users\\donni\\desktop\\wpf\\lyricsync real\\lyricsync.api\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43C959DB-67DE-43F0-9559-A38317B3E1EC}|LyricSync.csproj|solutionrelative:dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43C959DB-67DE-43F0-9559-A38317B3E1EC}|LyricSync.csproj|c:\\users\\donni\\desktop\\wpf\\lyricsync\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{43C959DB-67DE-43F0-9559-A38317B3E1EC}|LyricSync.csproj|c:\\users\\donni\\desktop\\wpf\\lyricsync real\\lyricsync.api\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43C959DB-67DE-43F0-9559-A38317B3E1EC}|LyricSync.csproj|solutionrelative:dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43C959DB-67DE-43F0-9559-A38317B3E1EC}|LyricSync.csproj|c:\\users\\donni\\desktop\\wpf\\lyricsync\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{43C959DB-67DE-43F0-9559-A38317B3E1EC}|LyricSync.csproj|c:\\users\\donni\\desktop\\wpf\\lyricsync real\\lyricsync.api\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43C959DB-67DE-43F0-9559-A38317B3E1EC}|LyricSync.csproj|solutionrelative:services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43C959DB-67DE-43F0-9559-A38317B3E1EC}|LyricSync.csproj|c:\\users\\donni\\desktop\\wpf\\lyricsync\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{43C959DB-67DE-43F0-9559-A38317B3E1EC}|LyricSync.csproj|c:\\users\\donni\\desktop\\wpf\\lyricsync real\\lyricsync.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{43C959DB-67DE-43F0-9559-A38317B3E1EC}|LyricSync.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43C959DB-67DE-43F0-9559-A38317B3E1EC}|LyricSync.csproj|c:\\users\\donni\\desktop\\wpf\\lyricsync\\services\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{43C959DB-67DE-43F0-9559-A38317B3E1EC}|LyricSync.csproj|c:\\users\\donni\\desktop\\wpf\\lyricsync real\\lyricsync.api\\services\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43C959DB-67DE-43F0-9559-A38317B3E1EC}|LyricSync.csproj|solutionrelative:services\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43C959DB-67DE-43F0-9559-A38317B3E1EC}|LyricSync.csproj|c:\\users\\donni\\desktop\\wpf\\lyricsync\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{43C959DB-67DE-43F0-9559-A38317B3E1EC}|LyricSync.csproj|c:\\users\\donni\\desktop\\wpf\\lyricsync real\\lyricsync.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43C959DB-67DE-43F0-9559-A38317B3E1EC}|LyricSync.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43C959DB-67DE-43F0-9559-A38317B3E1EC}|LyricSync.csproj|c:\\users\\donni\\desktop\\wpf\\lyricsync\\migrations\\20250825095223_secondmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{43C959DB-67DE-43F0-9559-A38317B3E1EC}|LyricSync.csproj|c:\\users\\donni\\desktop\\wpf\\lyricsync real\\lyricsync.api\\migrations\\20250825095223_secondmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43C959DB-67DE-43F0-9559-A38317B3E1EC}|LyricSync.csproj|solutionrelative:migrations\\20250825095223_secondmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\donni\\Desktop\\WPF\\LyricSync\\Migrations\\20250825095019_InitialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250825095019_InitialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{43C959DB-67DE-43F0-9559-A38317B3E1EC}|LyricSync.csproj|c:\\users\\donni\\desktop\\wpf\\lyricsync real\\lyricsync.api\\lyricsync.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{43C959DB-67DE-43F0-9559-A38317B3E1EC}|LyricSync.csproj|solutionrelative:lyricsync.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43C959DB-67DE-43F0-9559-A38317B3E1EC}|LyricSync.csproj|c:\\users\\donni\\desktop\\wpf\\lyricsync\\lyricsync.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{43C959DB-67DE-43F0-9559-A38317B3E1EC}|LyricSync.csproj|solutionrelative:lyricsync.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+      "AbsoluteMoniker": "D:0:0:{43C959DB-67DE-43F0-9559-A38317B3E1EC}|LyricSync.csproj|c:\\users\\donni\\desktop\\wpf\\lyricsync real\\lyricsync.api\\migrations\\20250825101012_thirdmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43C959DB-67DE-43F0-9559-A38317B3E1EC}|LyricSync.csproj|solutionrelative:migrations\\20250825101012_thirdmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43C959DB-67DE-43F0-9559-A38317B3E1EC}|LyricSync.csproj|c:\\users\\donni\\desktop\\wpf\\lyricsync real\\lyricsync.api\\migrations\\20250825095019_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43C959DB-67DE-43F0-9559-A38317B3E1EC}|LyricSync.csproj|solutionrelative:migrations\\20250825095019_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -96,7 +96,7 @@
         },
         {
           "DockedWidth": 623,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -111,110 +111,6 @@
               "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "LyricDto.cs",
-              "DocumentMoniker": "C:\\Users\\donni\\Desktop\\WPF\\LyricSync\\DTOs\\LyricDto.cs",
-              "RelativeDocumentMoniker": "DTOs\\LyricDto.cs",
-              "ToolTip": "C:\\Users\\donni\\Desktop\\WPF\\LyricSync\\DTOs\\LyricDto.cs",
-              "RelativeToolTip": "DTOs\\LyricDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T10:16:01.818Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SongDto.cs",
-              "DocumentMoniker": "C:\\Users\\donni\\Desktop\\WPF\\LyricSync\\DTOs\\SongDto.cs",
-              "RelativeDocumentMoniker": "DTOs\\SongDto.cs",
-              "ToolTip": "C:\\Users\\donni\\Desktop\\WPF\\LyricSync\\DTOs\\SongDto.cs",
-              "RelativeToolTip": "DTOs\\SongDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T10:15:53.743Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LyricsController.cs",
-              "DocumentMoniker": "C:\\Users\\donni\\Desktop\\WPF\\LyricSync\\Controllers\\LyricsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\LyricsController.cs",
-              "ToolTip": "C:\\Users\\donni\\Desktop\\WPF\\LyricSync\\Controllers\\LyricsController.cs",
-              "RelativeToolTip": "Controllers\\LyricsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T10:13:59.626Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SongsController.cs",
-              "DocumentMoniker": "C:\\Users\\donni\\Desktop\\WPF\\LyricSync\\Controllers\\SongsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\SongsController.cs",
-              "ToolTip": "C:\\Users\\donni\\Desktop\\WPF\\LyricSync\\Controllers\\SongsController.cs",
-              "RelativeToolTip": "Controllers\\SongsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T10:13:38.742Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "20250825101012_ThirdMigration.cs",
-              "DocumentMoniker": "C:\\Users\\donni\\Desktop\\WPF\\LyricSync\\Migrations\\20250825101012_ThirdMigration.cs",
-              "RelativeDocumentMoniker": "Migrations\\20250825101012_ThirdMigration.cs",
-              "ToolTip": "C:\\Users\\donni\\Desktop\\WPF\\LyricSync\\Migrations\\20250825101012_ThirdMigration.cs",
-              "RelativeToolTip": "Migrations\\20250825101012_ThirdMigration.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAgwA0AAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T10:10:12.775Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\donni\\Desktop\\WPF\\LyricSync\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\donni\\Desktop\\WPF\\LyricSync\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "Controllers\\AuthController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T09:32:30.762Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "LoginDto.cs",
-              "DocumentMoniker": "C:\\Users\\donni\\Desktop\\WPF\\LyricSync\\DTOs\\LoginDto.cs",
-              "RelativeDocumentMoniker": "DTOs\\LoginDto.cs",
-              "ToolTip": "C:\\Users\\donni\\Desktop\\WPF\\LyricSync\\DTOs\\LoginDto.cs",
-              "RelativeToolTip": "DTOs\\LoginDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T09:16:50.489Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "RegisterDto.cs",
-              "DocumentMoniker": "C:\\Users\\donni\\Desktop\\WPF\\LyricSync\\DTOs\\RegisterDto.cs",
-              "RelativeDocumentMoniker": "DTOs\\RegisterDto.cs",
-              "ToolTip": "C:\\Users\\donni\\Desktop\\WPF\\LyricSync\\DTOs\\RegisterDto.cs",
-              "RelativeToolTip": "DTOs\\RegisterDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T09:17:02.115Z",
-              "EditorCaption": ""
-            },
-            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
@@ -224,146 +120,232 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ITokenService.cs",
-              "DocumentMoniker": "C:\\Users\\donni\\Desktop\\WPF\\LyricSync\\Services\\ITokenService.cs",
-              "RelativeDocumentMoniker": "Services\\ITokenService.cs",
-              "ToolTip": "C:\\Users\\donni\\Desktop\\WPF\\LyricSync\\Services\\ITokenService.cs",
-              "RelativeToolTip": "Services\\ITokenService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "LyricDto.cs",
+              "DocumentMoniker": "C:\\Users\\donni\\Desktop\\WPF\\LyricSync real\\LyricSync.Api\\DTOs\\LyricDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\LyricDto.cs",
+              "ToolTip": "C:\\Users\\donni\\Desktop\\WPF\\LyricSync real\\LyricSync.Api\\DTOs\\LyricDto.cs",
+              "RelativeToolTip": "DTOs\\LyricDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T09:21:52.509Z",
+              "WhenOpened": "2025-08-25T10:16:01.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SongDto.cs",
+              "DocumentMoniker": "C:\\Users\\donni\\Desktop\\WPF\\LyricSync real\\LyricSync.Api\\DTOs\\SongDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\SongDto.cs",
+              "ToolTip": "C:\\Users\\donni\\Desktop\\WPF\\LyricSync real\\LyricSync.Api\\DTOs\\SongDto.cs",
+              "RelativeToolTip": "DTOs\\SongDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T10:15:53.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LyricsController.cs",
+              "DocumentMoniker": "C:\\Users\\donni\\Desktop\\WPF\\LyricSync real\\LyricSync.Api\\Controllers\\LyricsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LyricsController.cs",
+              "ToolTip": "C:\\Users\\donni\\Desktop\\WPF\\LyricSync real\\LyricSync.Api\\Controllers\\LyricsController.cs",
+              "RelativeToolTip": "Controllers\\LyricsController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAqwCoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T10:13:59.626Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "TokenService.cs",
-              "DocumentMoniker": "C:\\Users\\donni\\Desktop\\WPF\\LyricSync\\Services\\TokenService.cs",
-              "RelativeDocumentMoniker": "Services\\TokenService.cs",
-              "ToolTip": "C:\\Users\\donni\\Desktop\\WPF\\LyricSync\\Services\\TokenService.cs",
-              "RelativeToolTip": "Services\\TokenService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAApwCIAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "SongsController.cs",
+              "DocumentMoniker": "C:\\Users\\donni\\Desktop\\WPF\\LyricSync real\\LyricSync.Api\\Controllers\\SongsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SongsController.cs",
+              "ToolTip": "C:\\Users\\donni\\Desktop\\WPF\\LyricSync real\\LyricSync.Api\\Controllers\\SongsController.cs",
+              "RelativeToolTip": "Controllers\\SongsController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwBIAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T09:21:40.868Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-25T10:13:38.742Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\donni\\Desktop\\WPF\\LyricSync\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\donni\\Desktop\\WPF\\LyricSync\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-25T08:55:08.553Z",
-              "EditorCaption": ""
+              "DocumentIndex": 17,
+              "Title": "20250825101012_ThirdMigration.cs",
+              "DocumentMoniker": "C:\\Users\\donni\\Desktop\\WPF\\LyricSync real\\LyricSync.Api\\Migrations\\20250825101012_ThirdMigration.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250825101012_ThirdMigration.cs",
+              "ToolTip": "C:\\Users\\donni\\Desktop\\WPF\\LyricSync real\\LyricSync.Api\\Migrations\\20250825101012_ThirdMigration.cs",
+              "RelativeToolTip": "Migrations\\20250825101012_ThirdMigration.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwA0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T10:10:12.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\donni\\Desktop\\WPF\\LyricSync real\\LyricSync.Api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\donni\\Desktop\\WPF\\LyricSync real\\LyricSync.Api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T09:32:30.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\donni\\Desktop\\WPF\\LyricSync real\\LyricSync.Api\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\donni\\Desktop\\WPF\\LyricSync real\\LyricSync.Api\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "DTOs\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T09:16:50.489Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\donni\\Desktop\\WPF\\LyricSync real\\LyricSync.Api\\DTOs\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\donni\\Desktop\\WPF\\LyricSync real\\LyricSync.Api\\DTOs\\RegisterDto.cs",
+              "RelativeToolTip": "DTOs\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T09:17:02.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "C:\\Users\\donni\\Desktop\\WPF\\LyricSync real\\LyricSync.Api\\Services\\ITokenService.cs",
+              "RelativeDocumentMoniker": "Services\\ITokenService.cs",
+              "ToolTip": "C:\\Users\\donni\\Desktop\\WPF\\LyricSync real\\LyricSync.Api\\Services\\ITokenService.cs",
+              "RelativeToolTip": "Services\\ITokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T09:21:52.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\donni\\Desktop\\WPF\\LyricSync real\\LyricSync.Api\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\donni\\Desktop\\WPF\\LyricSync real\\LyricSync.Api\\Services\\TokenService.cs",
+              "RelativeToolTip": "Services\\TokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAApwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T09:21:40.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\donni\\Desktop\\WPF\\LyricSync real\\LyricSync.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\donni\\Desktop\\WPF\\LyricSync real\\LyricSync.Api\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-25T08:55:08.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\donni\\Desktop\\WPF\\LyricSync\\Data\\AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\donni\\Desktop\\WPF\\LyricSync real\\LyricSync.Api\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\donni\\Desktop\\WPF\\LyricSync\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\donni\\Desktop\\WPF\\LyricSync real\\LyricSync.Api\\Data\\AppDbContext.cs",
               "RelativeToolTip": "Data\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T09:35:23.616Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-25T09:35:23.616Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Song.cs",
-              "DocumentMoniker": "C:\\Users\\donni\\Desktop\\WPF\\LyricSync\\Models\\Song.cs",
+              "DocumentMoniker": "C:\\Users\\donni\\Desktop\\WPF\\LyricSync real\\LyricSync.Api\\Models\\Song.cs",
               "RelativeDocumentMoniker": "Models\\Song.cs",
-              "ToolTip": "C:\\Users\\donni\\Desktop\\WPF\\LyricSync\\Models\\Song.cs",
+              "ToolTip": "C:\\Users\\donni\\Desktop\\WPF\\LyricSync real\\LyricSync.Api\\Models\\Song.cs",
               "RelativeToolTip": "Models\\Song.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T08:57:42.628Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-25T08:57:42.628Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Lyric.cs",
-              "DocumentMoniker": "C:\\Users\\donni\\Desktop\\WPF\\LyricSync\\Models\\Lyric.cs",
+              "DocumentMoniker": "C:\\Users\\donni\\Desktop\\WPF\\LyricSync real\\LyricSync.Api\\Models\\Lyric.cs",
               "RelativeDocumentMoniker": "Models\\Lyric.cs",
-              "ToolTip": "C:\\Users\\donni\\Desktop\\WPF\\LyricSync\\Models\\Lyric.cs",
+              "ToolTip": "C:\\Users\\donni\\Desktop\\WPF\\LyricSync real\\LyricSync.Api\\Models\\Lyric.cs",
               "RelativeToolTip": "Models\\Lyric.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T08:57:55.919Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-25T08:57:55.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\donni\\Desktop\\WPF\\LyricSync real\\LyricSync.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\donni\\Desktop\\WPF\\LyricSync real\\LyricSync.Api\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAgwEUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T09:29:01.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\donni\\Desktop\\WPF\\LyricSync real\\LyricSync.Api\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\donni\\Desktop\\WPF\\LyricSync real\\LyricSync.Api\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T08:57:25.831Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\donni\\Desktop\\WPF\\LyricSync\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\donni\\Desktop\\WPF\\LyricSync\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAAgwEUAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T09:29:01.116Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\donni\\Desktop\\WPF\\LyricSync\\Models\\User.cs",
-              "RelativeDocumentMoniker": "Models\\User.cs",
-              "ToolTip": "C:\\Users\\donni\\Desktop\\WPF\\LyricSync\\Models\\User.cs",
-              "RelativeToolTip": "Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T08:57:25.831Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
               "Title": "20250825095223_SecondMigration.cs",
-              "DocumentMoniker": "C:\\Users\\donni\\Desktop\\WPF\\LyricSync\\Migrations\\20250825095223_SecondMigration.cs",
+              "DocumentMoniker": "C:\\Users\\donni\\Desktop\\WPF\\LyricSync real\\LyricSync.Api\\Migrations\\20250825095223_SecondMigration.cs",
               "RelativeDocumentMoniker": "Migrations\\20250825095223_SecondMigration.cs",
-              "ToolTip": "C:\\Users\\donni\\Desktop\\WPF\\LyricSync\\Migrations\\20250825095223_SecondMigration.cs",
+              "ToolTip": "C:\\Users\\donni\\Desktop\\WPF\\LyricSync real\\LyricSync.Api\\Migrations\\20250825095223_SecondMigration.cs",
               "RelativeToolTip": "Migrations\\20250825095223_SecondMigration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T09:52:24.141Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "20250825095019_InitialMigration.cs",
-              "DocumentMoniker": "C:\\Users\\donni\\Desktop\\WPF\\LyricSync\\Migrations\\20250825095019_InitialMigration.cs",
-              "RelativeDocumentMoniker": "Migrations\\20250825095019_InitialMigration.cs",
-              "ToolTip": "C:\\Users\\donni\\Desktop\\WPF\\LyricSync\\Migrations\\20250825095019_InitialMigration.cs",
-              "RelativeToolTip": "Migrations\\20250825095019_InitialMigration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T09:50:19.658Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-25T09:52:24.141Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 18,
+              "Title": "20250825095019_InitialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\donni\\Desktop\\WPF\\LyricSync real\\LyricSync.Api\\Migrations\\20250825095019_InitialMigration.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250825095019_InitialMigration.cs",
+              "ToolTip": "C:\\Users\\donni\\Desktop\\WPF\\LyricSync real\\LyricSync.Api\\Migrations\\20250825095019_InitialMigration.cs",
+              "RelativeToolTip": "Migrations\\20250825095019_InitialMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T09:50:19.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "LyricSync.http",
-              "DocumentMoniker": "C:\\Users\\donni\\Desktop\\WPF\\LyricSync\\LyricSync.http",
+              "DocumentMoniker": "C:\\Users\\donni\\Desktop\\WPF\\LyricSync real\\LyricSync.Api\\LyricSync.http",
               "RelativeDocumentMoniker": "LyricSync.http",
-              "ToolTip": "C:\\Users\\donni\\Desktop\\WPF\\LyricSync\\LyricSync.http",
+              "ToolTip": "C:\\Users\\donni\\Desktop\\WPF\\LyricSync real\\LyricSync.Api\\LyricSync.http",
               "RelativeToolTip": "LyricSync.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-08-25T09:42:06.102Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-25T09:42:06.102Z"
             }
           ]
         }

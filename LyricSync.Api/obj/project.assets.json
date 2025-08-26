@@ -2897,11 +2897,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\donni\\Desktop\\WPF\\LyricSync\\LyricSync.csproj",
+      "projectUniqueName": "C:\\Users\\donni\\Desktop\\WPF\\LyricSync real\\LyricSync.Api\\LyricSync.csproj",
       "projectName": "LyricSync",
-      "projectPath": "C:\\Users\\donni\\Desktop\\WPF\\LyricSync\\LyricSync.csproj",
+      "projectPath": "C:\\Users\\donni\\Desktop\\WPF\\LyricSync real\\LyricSync.Api\\LyricSync.csproj",
       "packagesPath": "C:\\Users\\donni\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\donni\\Desktop\\WPF\\LyricSync\\obj\\",
+      "outputPath": "C:\\Users\\donni\\Desktop\\WPF\\LyricSync real\\LyricSync.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

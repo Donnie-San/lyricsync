@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LyricSync")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+184d27f535c41983d4dcc4d93944c6f5964b9017")]
 [assembly: System.Reflection.AssemblyProductAttribute("LyricSync")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LyricSync")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

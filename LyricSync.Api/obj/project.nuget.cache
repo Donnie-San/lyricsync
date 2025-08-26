@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BZwudiu8Sbo=",
+  "dgSpecHash": "E5K7ahgCGnU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\donni\\Desktop\\WPF\\LyricSync\\LyricSync.csproj",
+  "projectFilePath": "C:\\Users\\donni\\Desktop\\WPF\\LyricSync real\\LyricSync.Api\\LyricSync.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\donni\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\donni\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\8.0.19\\microsoft.aspnetcore.authentication.jwtbearer.8.0.19.nupkg.sha512",
